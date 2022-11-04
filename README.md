@@ -16,7 +16,7 @@
 
 [twitter]: https://twitter.com/FabianSchick4
 [youtube]: https://www.youtube.com/channel/UC1IcUHuLh95wFYFNXJT79pw
-[website]: https://google.de
+[website]: https://linktr.ee/fabianschick
 [devto]: https://dev.to/fabianschick1
 [instagram]: https://www.instagram.com/fabianschick1/
 [linkedIn]: https://www.linkedin.com/in/fabian-schick-692a4118a
@@ -35,6 +35,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 [<img align="left" alt="codeSTACKr | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+
 
 <br />
 

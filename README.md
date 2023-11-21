@@ -16,7 +16,8 @@
 
 [twitter]: https://twitter.com/FabianSchick4
 [youtube]: https://www.youtube.com/channel/UC1IcUHuLh95wFYFNXJT79pw
-[website]: https://linktr.ee/fabianschick
+[linktree]: https://linktr.ee/fabianschick
+[website]: https://fabianschick.blog
 [devto]: https://dev.to/fabianschick1
 [instagram]: https://www.instagram.com/fabianschick1/
 [linkedIn]: https://www.linkedin.com/in/fabian-schick-692a4118a

@@ -4,8 +4,8 @@
 [<img height="30" src = "https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white">][linkedIn] 
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
 
-## I'm a Computer-Science-Student with a passion for Visual Computing
----
+## I'm a Computer Science Student with a passion for Visual Computing
+--- 
 
 ## My GitHub Stats 💻
 
